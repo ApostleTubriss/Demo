@@ -11,9 +11,6 @@ import java.util.Map;
  */
 public class P146 {
 
-    public static void main(String[] args) {
-    }
-
     private static class LRUCache {
 
         Map<Integer, Integer> m;
